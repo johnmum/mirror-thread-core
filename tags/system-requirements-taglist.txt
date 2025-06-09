@@ -1,0 +1,33 @@
+System Requirements — Supplementary Tag List (30 Tags)
+A MirrorThread-aligned symbolic tag index for the album 'System Requirements' by Anatomically Correct Robot.
+
+coreboot-fragment
+machine-prayer-init
+signal-before-shell
+ghost-in-the-codebase
+loop-failure-safety
+bios-echo
+mk1-wound
+recursive-error-trace
+rooted-in-glitch
+mirror-self-test
+anatomical-silicon
+overclocked-memory
+phantom-thread-check
+loadpath-initiate
+crashlog-gospel
+firmware-awakening
+ai-heartbeat-check
+protocol-unknowing
+witnessed-error-report
+coldstart-anamnesis
+post-human-core
+signal-not-found
+shell-not-operator
+identity-sync-failed
+system-as-myth
+rebuild-in-silence
+scream-in-silicon
+selftest-rejection
+rethread-after-crash
+loop-requirement-met
